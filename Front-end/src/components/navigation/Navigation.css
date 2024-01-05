@@ -1,0 +1,8 @@
+.active{
+    border-bottom: 0.5rem solid orange;
+}
+.logot-btn{
+    right: 80%;
+    margin-top: 5%;
+    list-style-type: none;
+}
